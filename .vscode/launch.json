@@ -1,0 +1,54 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Identity.API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Services/Identity.API/bin/Debug/net9.0/Identity.API.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Services/Identity.API",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Launch ApiGateway",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Services/ApiGateway/bin/Debug/net9.0/ApiGateway.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Services/ApiGateway",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Launch GuestManagement.API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Services/GuestManagement.API/bin/Debug/net9.0/GuestManagement.API.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Services/GuestManagement.API",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch All Services",
+            "configurations": [
+                "Launch Identity.API",
+                "Launch ApiGateway",
+                "Launch GuestManagement.API"
+            ]
+        }
+    ]
+}

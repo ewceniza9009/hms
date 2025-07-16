@@ -1,0 +1,32 @@
+<div class="p-4 sm:p-6 lg:p-8 bg-white rounded-lg shadow-md">
+  <h2 class="text-2xl font-semibold text-gray-800 mb-4">Guest List</h2>
+
+  <div *ngIf="isLoading" class="text-center py-8">
+    <p class="text-gray-500">Loading guests...</p>
+  </div>
+
+  <div *ngIf="!isLoading && guests.length > 0" class="overflow-x-auto">
+    <table class="min-w-full divide-y divide-gray-200">
+      <thead class="bg-gray-50">
+        <tr>
+          <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">First Name</th>
+          <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Last Name</th>
+          <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Date of Birth</th>
+          <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+        </tr>
+      </thead>
+      <tbody class="bg-white divide-y divide-gray-200">
+        <tr *ngFor="let guest of guests" class="hover:bg-gray-50">
+          <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">{{ guest.firstName }}</td>
+          <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700">{{ guest.lastName }}</td>
+          <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700">{{ guest.dateOfBirth | date: 'longDate' }}</td>
+          <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700">{{ guest.address }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div *ngIf="!isLoading && guests.length === 0" class="text-center py-8">
+    <p class="text-gray-500">No guests found.</p>
+  </div>
+</div>

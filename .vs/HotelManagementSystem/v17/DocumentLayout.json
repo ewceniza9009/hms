@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\hms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|x:\\hms\\src\\services\\identity.api\\identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E326450D-BF6B-436C-8F76-3188BC1CB7F0}|src\\Services\\Identity.API\\Identity.API.csproj|solutionrelative:src\\services\\identity.api\\identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{228e1580-0ef9-329a-bf07-81ebc3dcbf7e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0672c6e1-9edf-3be9-8226-f0823640821e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Controllers\\AuthController.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:32:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:32:42.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Entities\\User.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:32:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Worker.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Worker.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:30:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Program.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:30:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Identity.API.csproj",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Identity.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Identity.API.csproj",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Identity.API.csproj",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Identity.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T16:29:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "X:\\hms\\src\\Services\\Identity.API\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity.API\\Controllers\\TokenController.cs",
+              "ToolTip": "X:\\hms\\src\\Services\\Identity.API\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "src\\Services\\Identity.API\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:37:34.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
